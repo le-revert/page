@@ -1,0 +1,16 @@
+selectLang:
+  en: "Select Your Language"
+  fr: "Selectionner la langue"
+  ar: "اختر لغة"
+relatedPosts:
+  en: "Related Posts"
+  fr: "Articles similaires"
+  ar: "مقالات ذات صلة"
+differentLanguage:
+  en: "Read this page in a different language"
+  fr: "Lis cette page en une langue diffèrente"
+  ar: "قراءة هذه الصفحة بلغة مختلفة"
+viewIn:
+  en: "View in"
+  es: "Voir en"
+  ar: "عرض في"
