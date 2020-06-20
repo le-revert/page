@@ -24,7 +24,6 @@ description: >- # this means to ignore newlines until "baseurl:"
   La technologie a revert.
 
 baseurl: /page
-url: https://le-revert.github.io
 twitter_username: jekyllrb
 github_username:  jekyll
 
