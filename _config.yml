@@ -23,6 +23,7 @@ email: benmerad.lilyanezli@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   La technologie a revert.
 
+baseurl: "/page"
 twitter_username: jekyllrb
 github_username:  jekyll
 
