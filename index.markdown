@@ -4,7 +4,7 @@
 
 layout: home
 ---
-update 1
+update 2
 <h1>Select Your Language</h1>
 {% for lang in site.data.languages %}
   {% assign langCode = lang[0] %}
