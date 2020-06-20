@@ -1,5 +1,5 @@
 ---
-layout: index
+layout: inde
 title: Articles  recents
 lang: fr
 ---

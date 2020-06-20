@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang }}">
+
+{% include head.html %}
+
+<body>
+
+    {% include sidebar.html %}
+
+    <div class="content container">
+        <div class="posts">
+            <h1>{{ page.title }}</h1>
+            {{ content }}
+            <br /> {% assign posts = site.posts | where:"lang", page.lang %} {% for post in posts %}
+            <div class="post">
+                <h2 class="post-title">
+                    <a href="{{site.baseurl}}{{post.url}}">
+                {{ post.title }}</a>
+                    </h1>
+
+                    <span class="post-date">{{ post.date | date_to_string }}</span> {{ post.content }}
+            </div>
+            {% endfor %}
+        </div>
+        {% include footer.html %}
+    </div>
+</body>
+
+</html>

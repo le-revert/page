@@ -1,5 +1,5 @@
 ---
-layout: index
+layout: inde
 title: Latest Posts
 lang: en
 ---
