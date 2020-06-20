@@ -6,7 +6,7 @@
     <br /> {% assign posts = site.posts | where:"lang", page.lang %} {% for post in posts %}
     <div class="post">
         <h2 class="post-title">
-            <a href="{{site.baseurl}}/{{ post.url }}">
+            <a href="{{post.baseurl}}/{{ post.url |}}">
         {{ post.title }}
       </a>
             </h1>
