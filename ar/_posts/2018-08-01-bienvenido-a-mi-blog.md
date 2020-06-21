@@ -1,7 +1,7 @@
 ---
-title: ¡Bienvenido a mi blog!
+title: مرحبا! 
 layout: post
-lang: es
+lang: ar
 lang-ref: welcome-to-my-blog
 ---
 

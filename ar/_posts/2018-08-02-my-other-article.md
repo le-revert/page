@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Mi Otro Artículo
-lang: es
+lang: ar
 lang-ref: my-other-article
 ---
 
