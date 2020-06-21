@@ -1,0 +1,8 @@
+---
+title: التكنولوجيا في عالم اليوم
+layout: post
+lang: ar
+lang-ref: tech-today
+---
+
+
