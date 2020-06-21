@@ -19,13 +19,12 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Le revert
-email: benmerad.lilyanezli@gmail.com
+email: revert.dz@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Infos, témoignages, perspectives et alternatives vertes pour une vie plus respectueuse de la nature.
 
 baseurl: "/blog"
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: revertDz
 
 # Build settings
 theme: minima
