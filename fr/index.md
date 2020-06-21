@@ -1,5 +1,5 @@
 ---
 layout: inde
-title: Articles  recents
+title: Articles récents
 lang: fr
 ---
